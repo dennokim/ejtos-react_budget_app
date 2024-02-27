@@ -1,0 +1,33 @@
+/* StyleCurrency.css */
+
+/* Style for the Currency dropdown container */
+.alert-secondary {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #33FF49;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Style for the Currency label and dropdown */
+label {
+    margin-left: 1rem;
+}
+
+/* Style for the Currency dropdown select */
+select {
+    margin-left: 1rem;
+    background-color: #33FF49;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style for the Currency dropdown options */
+option {
+    color: black;
+}
+
+/* Add additional styles as needed */
